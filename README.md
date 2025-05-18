@@ -41,7 +41,7 @@ Si deseas usar este material en otro proyecto, por favor da el crédito correspo
 
 **Autores:**  
 - Jorge Andrés Rua Vera  
-- Daniel Eduardo Barrios Gómez  
+- Joseph Daniel Pacheco Gutièrrez
 - Julianna Sophia Schutmaat Carrascal  
 
 📍 Corporación Universitaria Reformada – Barranquilla, Colombia
